@@ -1,3 +1,4 @@
+![logo](https://github.com/aryansahoo0912/aryansahoo0912/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sai Aryan Sahoo</h1>
 <h3 align="center">A passionate Software developer from India!</h3>
 
