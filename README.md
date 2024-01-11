@@ -1,6 +1,7 @@
 ![logo](https://github.com/saiaryansahoo/saiaryansahoo/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Sai Aryan Sahoo</h1>
+
 <h3 align="center">A passionate Software developer from India!</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/saiaryansahoo/saiaryansahoo/blob/main/GIF.gif">
 
