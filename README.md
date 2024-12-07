@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **saiaryan.sahoo@gmail.com**
 
-- 📄 Here is my Resume! []
-
 - ⚡ Fun fact **I'm a foodie!😋**
 
 <h3 align="left">Connect with me:</h3>
