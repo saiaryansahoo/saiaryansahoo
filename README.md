@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://www.aryansahoo.me](https://www.aryansahoo.me)
+- 👨‍💻 All of my projects are available at [aryansahoo](https://www.aryansahoo.me)
 
 - 💬 Ask me about **Data Structure, OOPs, Salesforce.**
 
